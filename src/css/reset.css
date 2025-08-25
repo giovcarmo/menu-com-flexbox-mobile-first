@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    @import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+    font-family: "Public Sans", sans-serif;
+    color: #000;
+    list-style: none;
+    text-decoration: none;
+}
